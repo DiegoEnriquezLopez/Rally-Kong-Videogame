@@ -54,4 +54,4 @@ This video explains the game dynamics, the gameplay, and its objectives.
 
 Download all the mentioned resources and classes above and implement them into your project.
 
-You can download the resources with the next link: https://drive.google.com/drive/folders/1lL1zvf3-6HMWdUrgHvdtzf_F_P4LA4xU?usp=drive_link
+You can download the resources, the classes and all the project with the next link: https://drive.google.com/drive/folders/1lL1zvf3-6HMWdUrgHvdtzf_F_P4LA4xU?usp=drive_link
